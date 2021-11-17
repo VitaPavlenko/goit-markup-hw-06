@@ -771,6 +771,11 @@ ul {
   border-radius: 50%;
   border: 1px solid #afb1b8;
 }
+
+.close-btn:hover,
+.close-btn:focus {
+}
+
 .is-hidden {
   visibility: hidden;
   opacity: 0;
